@@ -202,6 +202,9 @@ body {
   margin-left: 24px;
 }
 
+.features-list .item{
+  width: 264px;
+}
 
 .examples-list {
   display: flex;
